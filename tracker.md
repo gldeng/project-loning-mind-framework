@@ -10,8 +10,8 @@
 | 1.2.2 | Create initial "Framework Abstraction Document" | 1 | Not Started | High | |
 | 1.3 | Select Baseline LLM (MR1) | 1 | Not Started | Medium | |
 | 1.3.1 | Evaluate open-source LLMs (Llama 3, Mistral, etc.) | 1 | Not Started | Medium | |
-| 1.4 | Establish MLOps Environment (MR3) | 1 | Not Started | Medium | |
-| 1.4.1 | Set up infrastructure (data management, training, version control) | 1 | Not Started | Medium | |
+| 1.4 | Establish MLOps Environment (MR3) | 1 | Completed | Medium | Windows machine with RTX 4090 GPU using LLaMA Factory |
+| 1.4.1 | Set up infrastructure (data management, training, version control) | 1 | Completed | Medium | Git repository established for version control |
 | 1.5 | Define Initial Evaluation Strategy | 1 | Not Started | Medium | |
 | 1.5.1 | Select standard benchmark subsets (MMLU, GSM8K, etc.) | 1 | Not Started | Medium | |
 | 1.5.2 | Outline custom test creation process | 1 | Not Started | Medium | |
@@ -24,9 +24,9 @@
 | 2.2.1 | Author initial data points manually | 2 | Not Started | High | |
 | 2.2.2 | Generate draft examples with baseline LLM (optional) | 2 | Not Started | Low | |
 | 2.2.3 | Perform expert review and refinement of all data | 2 | Not Started | High | |
-| 3.1 | Implement PEFT (LoRA) Training Pipeline | 3 | Not Started | High | |
-| 3.1.1 | Configure training environment | 3 | Not Started | High | |
-| 3.1.2 | Ensure sufficient GPU resources | 3 | Not Started | High | |
+| 3.1 | Implement PEFT (LoRA) Training Pipeline | 3 | In Progress | High | Using LLaMA Factory on Windows with RTX 4090 |
+| 3.1.1 | Configure training environment | 3 | Completed | High | Windows + RTX 4090 + LLaMA Factory |
+| 3.1.2 | Ensure sufficient GPU resources | 3 | Completed | High | RTX 4090 (24GB VRAM) available |
 | 3.2 | Execute Initial SFT Run | 3 | Not Started | High | |
 | 3.2.1 | Train model using PEFT (LoRA) | 3 | Not Started | High | |
 | 3.3 | Preliminary Evaluation | 3 | Not Started | High | |
