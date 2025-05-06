@@ -1,9 +1,9 @@
 # Project Loning Mind Framework - Task Tracker
 
 ## Project Status Summary
-- ✅ **Completed:** 9 tasks
+- ✅ **Completed:** 11 tasks
 - 🔶 **In Progress:** 1 task
-- ⬜ **Not Started:** 40 tasks
+- ⬜ **Not Started:** 38 tasks
 - 🚫 **Blocked:** 0 tasks
 
 | Task ID | Task Description | Phase | Status | Priority | Notes |
@@ -14,8 +14,8 @@
 | 1.2 | Formalize the Abstract Framework (DR1) | 1 | ✅ Completed | High | Files in abstract-framework folder |
 | 1.2.1 | Define generalizable logic structures, principles, and terminology | 1 | ✅ Completed | High | |
 | 1.2.2 | Create initial "Framework Abstraction Document" | 1 | ✅ Completed | High | Framework_Abstraction_Document.md created |
-| 1.3 | Select Baseline LLM (MR1) | 1 | ⬜ Not Started | Medium | |
-| 1.3.1 | Evaluate open-source LLMs (Llama 3, Mistral, etc.) | 1 | ⬜ Not Started | Medium | |
+| 1.3 | Select Baseline LLM (MR1) | 1 | ✅ Completed | Medium | Qwen2-7B-Instruct selected as baseline model |
+| 1.3.1 | Evaluate open-source LLMs (Llama 3, Mistral, etc.) | 1 | ✅ Completed | Medium | Qwen2-7B-Instruct chosen |
 | 1.4 | Establish MLOps Environment (MR3) | 1 | ✅ Completed | Medium | Windows machine with RTX 4090 GPU using LLaMA Factory |
 | 1.4.1 | Set up infrastructure (data management, training, version control) | 1 | ✅ Completed | Medium | Git repository established for version control |
 | 1.5 | Define Initial Evaluation Strategy | 1 | ⬜ Not Started | Medium | |
