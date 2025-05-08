@@ -1,8 +1,8 @@
-**Task:** *Prompt Revision to Enhance Reasoning Capabilities.*
+**Task:** *Generate CoT to follow LUT framework.*
 
 1. **Input Prompt:** <input>{prompt}</input>
 
-2. **Objective:** Revise the input prompt to apply the LUT logical thinking framework.
+2. **Objective:** Generate a Chain-of-Thought that applies the LUT logical thinking framework.
 
 3. **LUT Framework:**
    1. Plan out the solution by:
@@ -12,6 +12,5 @@
    3. Adjust the solution plan created in step 1 with the knowledge gained in step 2
 
 4. **Expected Outcome:**
-   - The revised prompt should stimulate enhanced analytical thought.
-   - It should facilitate a comprehensive understanding of the subject matter.
-   - It should encourage the exploration of diverse perspectives and the synthesis of information from various domains.
+   - The generated CoT should be on a methodoligical level.
+   - It should contain minimal domain knowledge.
